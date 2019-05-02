@@ -37,7 +37,7 @@ void setup() {
 }
 
 void loop() {
-   lcd.home ();
+   lcd.home();
    // Do a little animation by writing to the same location
    for ( int i = 0; i < 2; i++ ) {
       for ( int j = 0; j < 16; j++ ) {
@@ -47,4 +47,3 @@ void loop() {
    }
    delay(200);
 }
-
