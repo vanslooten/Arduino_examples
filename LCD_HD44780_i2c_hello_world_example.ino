@@ -1,3 +1,18 @@
+/*
+ * https://home.et.utwente.nl/slootenvanf/2019/04/04/displays/
+ * 
+ * Learn more about the use of library LiquidCrystal:
+ * https://www.arduino.cc/en/Reference/LiquidCrystal
+ * 
+ * Can be used in combi with EVShield (in hardware i2c mode)
+ * 
+ * Connections (hardware i2c):
+ * Display: Arduino:
+ * GND      GND
+ * VCC      VCC (3.3 or 5V)
+ * SDA      SDA (pin A4)
+ * SCL      SCL (pin A5)
+ */
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
