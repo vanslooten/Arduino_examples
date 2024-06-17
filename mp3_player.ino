@@ -15,7 +15,7 @@
   All above must be included in any redistribution
  
   1. Connection and Diagram can be found here
-    https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299#Connection_Diagram
+    https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#target_5
   2. Install the library "DFRobotDFPlayerMini" before use.
   3. This code is tested on Arduino Uno, Leonardo, Mega boards.
 */
