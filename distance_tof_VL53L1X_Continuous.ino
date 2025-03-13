@@ -1,6 +1,9 @@
 /*
 This example shows how to take simple range measurements with the VL53L1X. The
 range readings are in units of mm.
+
+Tutorials:
+https://home.et.utwente.nl/slootenvanf/tag/tof/
 */
 
 #include <Wire.h>
