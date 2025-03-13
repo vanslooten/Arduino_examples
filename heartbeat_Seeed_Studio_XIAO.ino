@@ -1,3 +1,7 @@
+/*
+Tutorial:
+https://home.et.utwente.nl/slootenvanf/2025/03/13/simulation-of-anxiety/
+*/
 #include <Wire.h>
 #include <VL53L1X.h>
 #include <FastLED.h>
