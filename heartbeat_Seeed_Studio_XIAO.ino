@@ -23,7 +23,7 @@ VL53L1X sensor;
 void setup() {
   // Initialize serial communication
   Serial.begin(115200);
-  while (!Serial) {}
+  //while (!Serial) {} // do not wait for serial to become available, as it only is used to print diagnostic info
 
   // Initialize I2C communication
   Wire.begin();
